@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/css/main.5e047aed.chunk.css",
+    "main.js": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/main.5ef4bf5f.chunk.js",
+    "main.js.map": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/main.5ef4bf5f.chunk.js.map",
+    "runtime-main.js": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/runtime-main.3b3f5d99.js",
+    "runtime-main.js.map": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/runtime-main.3b3f5d99.js.map",
+    "static/js/2.2fb483fd.chunk.js": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/2.2fb483fd.chunk.js",
+    "static/js/2.2fb483fd.chunk.js.map": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/2.2fb483fd.chunk.js.map",
+    "index.html": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/index.html",
+    "static/css/main.5e047aed.chunk.css.map": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/css/main.5e047aed.chunk.css.map",
+    "static/js/2.2fb483fd.chunk.js.LICENSE.txt": "https://okhuarobo-osayuki.github.io/csb-ptj7i3/static/js/2.2fb483fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b3f5d99.js",
+    "static/js/2.2fb483fd.chunk.js",
+    "static/css/main.5e047aed.chunk.css",
+    "static/js/main.5ef4bf5f.chunk.js"
+  ]
+}
